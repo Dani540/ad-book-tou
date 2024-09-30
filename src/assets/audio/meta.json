@@ -1,0 +1,56 @@
+[
+  {
+    "path": "src/assets/audio/At_The_Door.mp3",
+    "song": "At The Door",
+    "artist": "The Strokes",
+    "duration": "5:10"
+  },
+  {
+    "path": "src/assets/audio/Bad_Decisions.mp3",
+    "song": "Bad Decisions",
+    "artist": "The Strokes",
+    "duration": "4:53"
+  },
+  {
+    "path": "src/assets/audio/Brooklyn_Bridge_To_Chorus.mp3",
+    "song": "Brooklyn Bridge To Chorus",
+    "artist": "The Strokes",
+    "duration": "3:55"
+  },
+  {
+    "path": "src/assets/audio/Eternal_Summer.mp3",
+    "song": "Eternal Summer",
+    "artist": "The Strokes",
+    "duration": "6:15"
+  },
+  {
+    "path": "src/assets/audio/Not_The_Same_Anymore.mp3",
+    "song": "Not The Same Anymore",
+    "artist": "The Strokes",
+    "duration": "5:37"
+  },
+  {
+    "path": "src/assets/audio/Ode_To_The_Mets.mp3",
+    "song": "Ode To The Mets",
+    "artist": "The Strokes",
+    "duration": "5:51"
+  },
+  {
+    "path": "src/assets/audio/Selfless.mp3",
+    "song": "Selfless",
+    "artist": "The Strokes",
+    "duration": "4:02"
+  },
+  {
+    "path": "src/assets/audio/The_Adults_Are_Talking.mp3",
+    "song": "The Adults Are Talking",
+    "artist": "The Strokes",
+    "duration": "4:46"
+  },
+  {
+    "path": "src/assets/audio/Why_Are_Sundays_So_Depressing.mp3",
+    "song": "Why Are Sundays So Depressing",
+    "artist": "The Strokes",
+    "duration": "4:35"
+  }
+]
